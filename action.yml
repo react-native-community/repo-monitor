@@ -1,6 +1,6 @@
-name: Repo Activity Monitor
-description: Monitor new issues and pull requests in your GitHub repositories and receive timely notifications on Slack or Discord.
-author: Shubham Gupta <shubhaamgupta11@gmail.com>
+name: RN Activity Monitor
+description: Monitor new issues and pull requests in your repositories and receive timely notifications on Slack or Discord.
+author: Shubham Gupta <shubham.gupta@dream11.com>
 branding:
   icon: bell
   color: green

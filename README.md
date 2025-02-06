@@ -1,6 +1,8 @@
 # Issue Triaging with Discord Notifications
 
-This repository is a fork of [repo-activity-monitor](https://github.com/shubhaamgupta11/repo-monitor), designed to monitor new issues in the React Native repository and send notifications to Discord for better issue triaging.
+*Forked from [shubhaamgupta11/repo-monitor](https://github.com/shubhaamgupta11/repo-monitor).*
+
+It is designed to monitor new issues in the React Native repository and send notifications to Discord for better issue triaging.
 
 ## Features
 

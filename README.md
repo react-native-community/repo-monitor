@@ -1,5 +1,7 @@
 # Monitor Issues & PRs with Slack+Discord Notifications
 
+This repo is a fork of [repo-activity-monitor](https://github.com/shubhaamgupta11/repo-monitor) specifically for monitoring issues and pull requests in react-native.
+
 Managing activity in open-source repositories can be challenging. With a constant influx of **issues** and **pull requests**, it's easy to lose track of what needs attention—especially when working with large teams or active projects. Missed notifications or delayed responses can lead to bottlenecks, reduced contributor satisfaction, and slower project progress.
 
 ## Repo Activity Monitor

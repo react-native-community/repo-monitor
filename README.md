@@ -33,7 +33,7 @@ jobs:
         with:
           node-version: '20'
       - name: Monitor New Issues
-        uses: react-native-community/repo-monitor@v1.0.0
+        uses: react-native-community/repo-monitor@v1.0.1
         with:
           # required inputs
           task: "monitor-issues"
